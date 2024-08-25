@@ -79,10 +79,12 @@ header{
 }
 
 .carts{
-    max-width: 250px;
-    box-shadow: 0 3px 10px rgb(0 0 0 / 20%);
-    padding-bottom: 34px;
-    margin-bottom: 40px;
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    width: 30%;
 }
 .carts img{
     width: 100%;
